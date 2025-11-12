@@ -1,1 +1,4 @@
 Test file for Jenkins pipeline to test.
+Hello
+x=10
+y=20
